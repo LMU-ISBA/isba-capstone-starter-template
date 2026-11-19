@@ -6,9 +6,11 @@ own every task.
 ## How to use this file
 
 - Each task has an owner, a due date, and acceptance items.
+- Pull the latest changes before you edit this file.
 - Move a task to In progress when someone starts it.
 - Move a task to Done when every acceptance item is checked.
 - Put the task ID in your commit message, like `TASK-4: Send stakeholder email`.
+- Commit and push each time you check an item or move a task.
 - Add your own tasks with the next number.
 
 ## Definition of done
@@ -16,6 +18,7 @@ own every task.
 - Every acceptance item is checked.
 - The evidence is linked or committed.
 - The commit message carries the task ID.
+- The work is pushed to `main` on GitHub.
 
 ## To do
 
@@ -76,12 +79,14 @@ This stand-up is written, and each teammate commits their own. It also shows
 that each of you can commit and push to this repository.
 
 - [ ] Each teammate pulls the latest changes first.
-- [ ] Each teammate copies `standups/template.md` to
-      `standups/2026-12-03-[first-last].md`.
+- [ ] Each teammate copies `standups/stand-up-template.md` and names the copy
+      `standups/2026-12-03-first-last.md`, like
+      `standups/2026-12-03-jordan-lee.md`.
 - [ ] Each teammate answers the three questions in their own words.
 - [ ] Each teammate commits and pushes their own file from their own GitHub
       account.
 - [ ] Each commit message starts with `TASK-5`.
+- [ ] Each file shows on `main` on GitHub.
 
 Evidence:
 

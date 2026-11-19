@@ -54,7 +54,9 @@ Replace each line.
 - `stakeholder/confirmation.md` asks your stakeholder to confirm the problem in
   writing.
 - `TASKS.md` tracks your tasks, their owners, and their due dates.
-- `standups/` holds each teammate's written stand-up.
+- `standups/` holds each teammate's written stand-up. Copy
+  `standups/stand-up-template.md` and name your copy
+  `YYYY-MM-DD-first-last.md`.
 - This README holds your team details.
 
 ## Tasks
@@ -70,6 +72,28 @@ These dates matter:
 
 Create your repository from this template:
 https://github.com/LMU-ISBA/isba-capstone-starter-template
+
+## Working together in this repository
+
+Your advisor reads the `main` branch on GitHub. Work that isn't on `main`
+isn't handed in.
+
+- Work on `main` this term. You don't need branches until you build in the
+  spring.
+- Pull the latest changes before you start.
+- Commit and push each time you finish something. Small commits are fine.
+- Start each commit message with the task ID, like `TASK-3: Draft the brief`.
+- If GitHub rejects your push, pull again and then push.
+- Don't edit the same file as a teammate at the same time. Agree on one editor
+  for `PRD.md` and `TASKS.md` in each work session.
+- If you do use a branch, merge it into `main` before the due date.
+
+You can ask Claude Code to do the Git steps:
+
+```text
+Pull the latest changes. Show me what I changed and explain what will be committed.
+Wait for my review, then commit with a message that starts with the task ID and push to main.
+```
 
 ## What you hand in on Thu Dec 10
 
