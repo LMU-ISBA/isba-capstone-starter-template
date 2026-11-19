@@ -96,7 +96,7 @@ Evidence:
 
 ### TASK-6: Hold the stakeholder conversation
 
-Owner: [Name] | Due: Thu Dec 10
+Owner: [Name] | Due: Thu Dec 10, 11:59 PM
 
 - [ ] The conversation is held, or `README.md` records that it moved to January.
 - [ ] A dated copy of `stakeholder/interview-notes-template.md` is filled in
@@ -110,7 +110,7 @@ Evidence:
 
 ### TASK-7: Get your stakeholder's written confirmation
 
-Owner: [Name] | Due: Thu Dec 10
+Owner: [Name] | Due: Thu Dec 10, 11:59 PM
 
 - [ ] Your team agrees on the wording.
 - [ ] The note in `stakeholder/confirmation.md` is sent with your advisor
@@ -121,7 +121,7 @@ Evidence:
 
 ### TASK-8: Finish the preliminary PRD and record your presentation
 
-Owner: [Name] | Due: Thu Dec 10
+Owner: [Name] | Due: Thu Dec 10, 11:59 PM
 
 - [ ] `PRD.md` marks what's still unconfirmed.
 - [ ] Your team records a presentation of five minutes or less.
