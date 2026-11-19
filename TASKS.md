@@ -34,7 +34,8 @@ Owner: [Name] | Due: Thu Nov 19, in class
 - [ ] The visibility is "Private".
 - [ ] Every teammate is a collaborator.
 - [ ] Both instructors are collaborators: `lontok` and `sam-lmu`.
-- [ ] The Team section of `README.md` is filled in.
+- [ ] The Team section of `README.md` in your repository is filled in,
+      committed, and pushed.
 
 Evidence:
 

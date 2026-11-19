@@ -56,7 +56,15 @@ If you don't see "Use this template," you aren't signed in.
 
 ## Team
 
-Replace each line.
+Fill in this section in your team's own repository, not in the template.
+
+1. Open `README.md` in the repository you cloned. This is the file you're
+   reading now.
+2. Type your answer after the colon on each line below.
+3. Save the file.
+4. Commit and push, with a message that starts with `TASK-1`.
+
+Leave "Recorded presentation link" empty until Dec 10.
 
 - Project:
 - Team members, full names:
