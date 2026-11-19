@@ -68,15 +68,20 @@ Owner: [Name] | Due: two business days after your advisor says to send
 
 Evidence:
 
-### TASK-5: Prepare for the stand-up
+### TASK-5: Commit your stand-up
 
-Owner: [Name] | Due: Thu Dec 3
+Owner: every teammate | Due: Thu Dec 3
 
-- [ ] You have a reply, a scheduled conversation, or a follow-up you can show.
-- [ ] Your three most important questions are chosen with
-      `stakeholder/interview-guide.md`.
-- [ ] `PRD.md` is updated with what you've learned.
-- [ ] Each teammate can say what they did, what's next, and what's in the way.
+This stand-up is written, and each teammate commits their own. It also shows
+that each of you can commit and push to this repository.
+
+- [ ] Each teammate pulls the latest changes first.
+- [ ] Each teammate copies `standups/template.md` to
+      `standups/2026-12-03-[first-last].md`.
+- [ ] Each teammate answers the three questions in their own words.
+- [ ] Each teammate commits and pushes their own file from their own GitHub
+      account.
+- [ ] Each commit message starts with `TASK-5`.
 
 Evidence:
 
@@ -105,12 +110,17 @@ Owner: [Name] | Due: Thu Dec 10
 
 Evidence:
 
-### TASK-8: Finish the preliminary PRD and present
+### TASK-8: Finish the preliminary PRD and record your presentation
 
 Owner: [Name] | Due: Thu Dec 10
 
 - [ ] `PRD.md` marks what's still unconfirmed.
-- [ ] Your team presents its scope and takes questions.
+- [ ] Your team records a presentation of five minutes or less.
+- [ ] Every teammate speaks in the recording.
+- [ ] The recording covers the problem, your evidence, the scope, and what's
+      still unconfirmed.
+- [ ] The link to the recording is in the Team section of `README.md`.
+- [ ] Your advisor can open the link.
 
 Evidence:
 

@@ -42,6 +42,7 @@ Replace each line.
 - How we reach each other:
 - Driver today:
 - Stakeholder agreed to this repository: not yet asked
+- Recorded presentation link:
 
 ## What's in this repository
 
@@ -53,6 +54,7 @@ Replace each line.
 - `stakeholder/confirmation.md` asks your stakeholder to confirm the problem in
   writing.
 - `TASKS.md` tracks your tasks, their owners, and their due dates.
+- `standups/` holds each teammate's written stand-up.
 - This README holds your team details.
 
 ## Tasks
@@ -63,11 +65,23 @@ These dates matter:
 
 - Thu Nov 19, in class: TASK-1, TASK-2, and TASK-3.
 - Two business days after your advisor says to send: TASK-4.
-- Thu Dec 3, the stand-up: TASK-5.
-- Thu Dec 10, the review: TASK-6, TASK-7, and TASK-8.
+- Thu Dec 3: TASK-5, your written stand-up.
+- Thu Dec 10: TASK-6, TASK-7, and TASK-8.
 
 Create your repository from this template:
 https://github.com/LMU-ISBA/isba-capstone-starter-template
+
+## What you hand in on Thu Dec 10
+
+Everything is in this repository. You don't upload anything else.
+
+- Your preliminary PRD in `PRD.md`, with unconfirmed claims marked.
+- Your interview notes in `stakeholder/`, or a note that the conversation moved
+  to January.
+- Your stakeholder's reply in `stakeholder/`, if you have it.
+- `TASKS.md` with every task in the right section and its evidence filled in.
+- Each teammate's stand-up in `standups/`.
+- The link to your recorded presentation in the Team section above.
 
 ## Rules for this repository
 
