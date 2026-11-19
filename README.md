@@ -9,6 +9,26 @@ anything yet.
 If your capstone is an internship or your own project, you're a team of one. Do
 every step below for your own project, and trade briefs with a partner today.
 
+## What this repository is for
+
+This repository is your team's working record of the project. It holds your
+brief, your interview notes, and your research. In the spring it holds what you
+build.
+
+Your faculty advisor follows your progress here. At the end of the capstone,
+you hand the repository over to your stakeholder. Write and organize it so
+someone outside your team can pick it up.
+
+## Keep it private
+
+Set your repository to private. Only your teammates and your faculty advisor
+get access. Add your stakeholder when they ask for it.
+
+Your stakeholder also has a say in where the work lives. Some organizations
+require their own tools. In your first conversation, ask whether a private
+GitHub repository is acceptable, and tell them you'll hand it over at the end.
+Until they agree, keep only your own notes and made-up data here.
+
 ## Team
 
 Replace each line.
@@ -21,11 +41,16 @@ Replace each line.
 - Spring meeting block:
 - How we reach each other:
 - Driver today:
+- Stakeholder agreed to this repository: not yet asked
 
 ## What's in this repository
 
 - `PRD.md` is your one-page initial product brief.
 - `stakeholder-email.md` asks your stakeholder for a first conversation.
+- `interview-guide.md` is how to run that conversation.
+- `interview-notes.md` is the page you fill in after each conversation.
+- `stakeholder-confirmation.md` asks your stakeholder to confirm the problem in
+  writing.
 - This README holds your team details and the checklist.
 
 ## Checklist
@@ -38,8 +63,7 @@ Replace each line.
       https://github.com/LMU-ISBA/isba-capstone-starter-template
 - [ ] Name it `isba-capstone-[project]-s27`, like
       `isba-capstone-campus-dining-s27`.
-- [ ] Set it to private if your project uses an employer's or client's
-      information.
+- [ ] Set the visibility to "Private".
 - [ ] Add every teammate and your faculty advisor as collaborators.
 - [ ] Fill in the Team section above.
 - [ ] Pick a 30-minute weekly meeting time for the weeks of Nov 30 and Dec 7.
@@ -61,19 +85,26 @@ Replace each line.
 ### By Thu Dec 3, the stand-up
 
 - [ ] Have a reply, a scheduled conversation, or a follow-up you can show.
+- [ ] Read `interview-guide.md` and choose your three most important questions.
 - [ ] Update `PRD.md` with what you've learned.
 - [ ] Be ready to say what you did, what's next, and what's in your way.
 
 ### By Thu Dec 10, the review
 
 - [ ] Hold the stakeholder conversation, or record that it moved to January.
-- [ ] Ask your stakeholder to agree to the problem statement in writing.
+- [ ] Fill in `interview-notes.md` the same day.
+- [ ] Ask whether a private GitHub repository is acceptable. Record the answer
+      in the Team section and in section 5 of `PRD.md`.
+- [ ] Send `stakeholder-confirmation.md` and save the reply.
 - [ ] Finish your preliminary PRD. Mark what's still unconfirmed.
 - [ ] Present your scope and take questions.
 
 ## Rules for this repository
 
+- Keep the repository private.
 - Don't commit an employer's or client's data, credentials, or internal
   documents.
 - Use made-up data in any example.
+- Don't give access to anyone outside your team, your advisor, and your
+  stakeholder.
 - Keep every teammate's name in the Team section current.
