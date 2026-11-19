@@ -46,8 +46,9 @@ One driver per team does steps 1 to 8. Every teammate does steps 9 and 10.
 8. Open "Settings," then "Collaborators," then "Add people." Add every teammate
    by GitHub username. Add both instructors too: `lontok` for Prof Lontok and
    `sam-lmu` for Prof Mukherjee. Every team adds both.
-9. Accept the invitation. It arrives by email and at
-   https://github.com/notifications
+9. Accept the invitation today, before you leave class. It arrives by email
+   and at https://github.com/notifications. An invitation expires after seven
+   days, and then the driver has to send it again.
 10. Copy the repository's URL from its "Code" menu. In a terminal, type
     `git clone`, a space, and the URL. Then run the command.
 

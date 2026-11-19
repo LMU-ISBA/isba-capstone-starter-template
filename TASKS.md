@@ -30,6 +30,7 @@ Owner: [Name] | Due: Thu Nov 19, in class
 - [ ] The repository is created with the steps in "Set up your repository" in
       `README.md`, and named `isba-capstone-[project]-s27`.
 - [ ] Every teammate has accepted the invitation and cloned the repository.
+      An invitation expires after seven days, so accept it in class.
 - [ ] The visibility is "Private".
 - [ ] Every teammate is a collaborator.
 - [ ] Both instructors are collaborators: `lontok` and `sam-lmu`.
