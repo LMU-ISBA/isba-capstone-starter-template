@@ -55,10 +55,10 @@ Owner: [Name] | Due: Thu Nov 19, in class
 
 - [ ] `PRD.md` has a draft of all six sections.
 - [ ] Each claim is marked confirmed or assumed.
-- [ ] Section 6 lists at least five open questions.
+- [ ] Section 6 lists two to three open questions.
 - [ ] The draft is committed and pushed.
-- [ ] The repository link and your top three open questions are posted in your
-      class Teams channel.
+- [ ] The repository link and your open questions are posted in your class
+      Teams channel.
 
 Evidence:
 

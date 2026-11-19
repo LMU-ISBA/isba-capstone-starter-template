@@ -38,13 +38,11 @@ time.
 
 ## 6. Open questions
 
-What still needs confirmation? These questions become the agenda for your first
-stakeholder conversation.
+What still needs confirmation? Start with two to three questions. They become
+the agenda for your first stakeholder conversation.
 
 | Question | Who can answer | How we'll find out |
 | --- | --- | --- |
-| | | |
-| | | |
 | | | |
 | | | |
 | | | |
