@@ -29,6 +29,28 @@ require their own tools. In your first conversation, ask whether a private
 GitHub repository is acceptable, and tell them you'll hand it over at the end.
 Until they agree, keep only your own notes and made-up data here.
 
+## Set up your repository
+
+One driver per team does steps 1 to 8. Every teammate does steps 9 and 10.
+
+1. Sign in to GitHub.
+2. Open the template:
+   https://github.com/LMU-ISBA/isba-capstone-starter-template
+3. Select "Use this template" at the top right, then "Create a new repository."
+4. Choose the driver's account as the owner.
+5. Name the repository `isba-capstone-[project]-s27`, like
+   `isba-capstone-campus-dining-s27`.
+6. Set the visibility to "Private".
+7. Select "Create repository."
+8. Open "Settings," then "Collaborators," then "Add people." Add every teammate
+   and your faculty advisor by GitHub username.
+9. Accept the invitation. It arrives by email and at
+   https://github.com/notifications
+10. Copy the repository's URL from its "Code" menu. In a terminal, type
+    `git clone`, a space, and the URL. Then run the command.
+
+If you don't see "Use this template," you aren't signed in.
+
 ## Team
 
 Replace each line.
@@ -69,9 +91,6 @@ These dates matter:
 - Two business days after your advisor says to send: TASK-4.
 - Thu Dec 3: TASK-5, your written stand-up.
 - Thu Dec 10: TASK-6, TASK-7, and TASK-8.
-
-Create your repository from this template:
-https://github.com/LMU-ISBA/isba-capstone-starter-template
 
 ## Working together in this repository
 
