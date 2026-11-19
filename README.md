@@ -51,53 +51,22 @@ Replace each line.
 - `interview-notes.md` is the page you fill in after each conversation.
 - `stakeholder-confirmation.md` asks your stakeholder to confirm the problem in
   writing.
-- This README holds your team details and the checklist.
+- `TASKS.md` tracks your tasks, their owners, and their due dates.
+- This README holds your team details.
 
-## Checklist
+## Tasks
 
-### Today in class
+Your work is tracked in `TASKS.md`. Start with TASK-1 today.
 
-- [ ] Trade phone numbers or set up a group chat.
-- [ ] Choose one driver to create the repository.
-- [ ] Create your repository from this template:
-      https://github.com/LMU-ISBA/isba-capstone-starter-template
-- [ ] Name it `isba-capstone-[project]-s27`, like
-      `isba-capstone-campus-dining-s27`.
-- [ ] Set the visibility to "Private".
-- [ ] Add every teammate and your faculty advisor as collaborators.
-- [ ] Fill in the Team section above.
-- [ ] Pick a 30-minute weekly meeting time for the weeks of Nov 30 and Dec 7.
-- [ ] Pick your spring meeting block from the roster.
-- [ ] Draft `PRD.md` from what you know today. Mark each claim as confirmed or
-      assumed.
-- [ ] List at least five open questions in section 6 of `PRD.md`.
-- [ ] Draft your stakeholder email from `stakeholder-email.md`.
-- [ ] Commit and push.
-- [ ] Post your repository link and your top three open questions in your class
-      Teams channel.
+Four dates matter:
 
-### By Mon Nov 23
+- Thu Nov 19, in class: TASK-1, TASK-2, and TASK-3.
+- Mon Nov 23: TASK-4.
+- Thu Dec 3, the stand-up: TASK-5.
+- Thu Dec 10, the review: TASK-6, TASK-7, and TASK-8.
 
-- [ ] Send the stakeholder email with your advisor copied. If your advisor is
-      introducing you, wait for that introduction and reply to it.
-- [ ] Check that every teammate can open the repository.
-
-### By Thu Dec 3, the stand-up
-
-- [ ] Have a reply, a scheduled conversation, or a follow-up you can show.
-- [ ] Read `interview-guide.md` and choose your three most important questions.
-- [ ] Update `PRD.md` with what you've learned.
-- [ ] Be ready to say what you did, what's next, and what's in your way.
-
-### By Thu Dec 10, the review
-
-- [ ] Hold the stakeholder conversation, or record that it moved to January.
-- [ ] Fill in `interview-notes.md` the same day.
-- [ ] Ask whether a private GitHub repository is acceptable. Record the answer
-      in the Team section and in section 5 of `PRD.md`.
-- [ ] Send `stakeholder-confirmation.md` and save the reply.
-- [ ] Finish your preliminary PRD. Mark what's still unconfirmed.
-- [ ] Present your scope and take questions.
+Create your repository from this template:
+https://github.com/LMU-ISBA/isba-capstone-starter-template
 
 ## Rules for this repository
 
