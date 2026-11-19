@@ -57,9 +57,10 @@ Evidence:
 
 ### TASK-4: Send the stakeholder email
 
-Owner: [Name] | Due: Mon Nov 23
+Owner: [Name] | Due: two business days after your advisor says to send
 
-- [ ] Your advisor has said whether they introduce you first.
+- [ ] Your advisor has told you who your first contact is.
+- [ ] Your advisor has said to send. Don't send before that.
 - [ ] The email is drafted from `stakeholder/email.md`.
 - [ ] The email offers three times the whole team can make.
 - [ ] Your advisor is copied.

@@ -1,12 +1,15 @@
 # Stakeholder email
 
-This email asks your stakeholder for a first conversation. Send it by Mon Nov
-23, before Thanksgiving, so they have it before the break.
+This email asks your stakeholder for a first conversation. Send it when your
+advisor says to, and not before. Some stakeholders hear from your advisor
+first.
 
 ## Before you send
 
-- Check with your advisor first. If the stakeholder is your advisor's contact,
-  your advisor introduces you and you reply to that introduction.
+- Ask your advisor who your first contact is. The roster lists it.
+- If your first contact is your advisor, skip this email. Hold your first
+  conversation with your advisor, who brings in the stakeholder when it's time.
+- If your advisor introduces you, reply to that introduction.
 - Copy your faculty advisor.
 - Send it from one teammate, with every teammate copied.
 - Offer three specific times. Check them with your team first.

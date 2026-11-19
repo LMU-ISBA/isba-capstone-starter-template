@@ -59,10 +59,10 @@ Replace each line.
 
 Your work is tracked in `TASKS.md`. Start with TASK-1 today.
 
-Four dates matter:
+These dates matter:
 
 - Thu Nov 19, in class: TASK-1, TASK-2, and TASK-3.
-- Mon Nov 23: TASK-4.
+- Two business days after your advisor says to send: TASK-4.
 - Thu Dec 3, the stand-up: TASK-5.
 - Thu Dec 10, the review: TASK-6, TASK-7, and TASK-8.
 
