@@ -46,10 +46,11 @@ Replace each line.
 ## What's in this repository
 
 - `PRD.md` is your one-page initial product brief.
-- `stakeholder-email.md` asks your stakeholder for a first conversation.
-- `interview-guide.md` is how to run that conversation.
-- `interview-notes.md` is the page you fill in after each conversation.
-- `stakeholder-confirmation.md` asks your stakeholder to confirm the problem in
+- `stakeholder/email.md` asks your stakeholder for a first conversation.
+- `stakeholder/interview-guide.md` is how to run that conversation.
+- `stakeholder/interview-notes-template.md` is the page you copy and fill in
+  after each conversation.
+- `stakeholder/confirmation.md` asks your stakeholder to confirm the problem in
   writing.
 - `TASKS.md` tracks your tasks, their owners, and their due dates.
 - This README holds your team details.

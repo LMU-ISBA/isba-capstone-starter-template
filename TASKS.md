@@ -60,6 +60,7 @@ Evidence:
 Owner: [Name] | Due: Mon Nov 23
 
 - [ ] Your advisor has said whether they introduce you first.
+- [ ] The email is drafted from `stakeholder/email.md`.
 - [ ] The email offers three times the whole team can make.
 - [ ] Your advisor is copied.
 - [ ] The email is sent.
@@ -71,7 +72,8 @@ Evidence:
 Owner: [Name] | Due: Thu Dec 3
 
 - [ ] You have a reply, a scheduled conversation, or a follow-up you can show.
-- [ ] Your three most important questions are chosen from `interview-guide.md`.
+- [ ] Your three most important questions are chosen with
+      `stakeholder/interview-guide.md`.
 - [ ] `PRD.md` is updated with what you've learned.
 - [ ] Each teammate can say what they did, what's next, and what's in the way.
 
@@ -82,7 +84,8 @@ Evidence:
 Owner: [Name] | Due: Thu Dec 10
 
 - [ ] The conversation is held, or `README.md` records that it moved to January.
-- [ ] `interview-notes.md` is filled in the same day.
+- [ ] A dated copy of `stakeholder/interview-notes-template.md` is filled in
+      the same day.
 - [ ] Your stakeholder has said whether a private GitHub repository is
       acceptable.
 - [ ] The answer is in the Team section of `README.md` and in section 5 of
@@ -95,8 +98,9 @@ Evidence:
 Owner: [Name] | Due: Thu Dec 10
 
 - [ ] Your team agrees on the wording.
-- [ ] `stakeholder-confirmation.md` is sent with your advisor copied.
-- [ ] The reply is saved in this repository, or the brief is marked unconfirmed.
+- [ ] The note in `stakeholder/confirmation.md` is sent with your advisor
+      copied.
+- [ ] The reply is saved in `stakeholder/`, or the brief is marked unconfirmed.
 
 Evidence:
 

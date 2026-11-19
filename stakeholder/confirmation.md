@@ -9,7 +9,7 @@ asks where the work can live.
 - Send it after your first conversation, not before.
 - Agree on the wording as a team first.
 - Copy your faculty advisor.
-- Save the reply in this repository.
+- Save the reply in the `stakeholder` folder.
 - If your stakeholder moved the conversation to January, send this in January
   and mark the brief as unconfirmed.
 

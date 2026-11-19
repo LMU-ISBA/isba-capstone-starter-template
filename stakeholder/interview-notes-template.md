@@ -1,6 +1,7 @@
 # Interview notes
 
-Copy this page for each conversation. Fill it in the same day.
+Copy this page for each conversation. Name the copy with the date, like
+`stakeholder/2026-12-02-interview-notes.md`. Fill it in the same day.
 
 Date: [Date]<br>
 We talked with: [Name and role]<br>

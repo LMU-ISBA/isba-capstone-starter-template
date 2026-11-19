@@ -36,8 +36,9 @@ tell you.
 
 ## After
 
-- Fill in `interview-notes.md` the same day.
+- Copy `stakeholder/interview-notes-template.md` and name the copy with the
+  date. Fill it in the same day.
 - Update `PRD.md`. Mark a claim as confirmed only when the stakeholder said it.
 - Send a thank-you note within a day.
-- Send `stakeholder-confirmation.md` once your team agrees on the problem
-  statement.
+- Send the note in `stakeholder/confirmation.md` once your team agrees on the
+  problem statement.
