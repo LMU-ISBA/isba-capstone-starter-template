@@ -21,8 +21,9 @@ someone outside your team can pick it up.
 
 ## Keep it private
 
-Set your repository to private. Only your teammates and your faculty advisor
-get access. Add your stakeholder when they ask for it.
+Set your repository to private. Only your teammates, Prof Lontok, and Prof
+Mukherjee get access. If your faculty advisor is someone else, add them too.
+Add your stakeholder when they ask for it.
 
 Your stakeholder also has a say in where the work lives. Some organizations
 require their own tools. In your first conversation, ask whether a private
@@ -43,7 +44,8 @@ One driver per team does steps 1 to 8. Every teammate does steps 9 and 10.
 6. Set the visibility to "Private".
 7. Select "Create repository."
 8. Open "Settings," then "Collaborators," then "Add people." Add every teammate
-   and your faculty advisor by GitHub username.
+   by GitHub username. Add both instructors too: `lontok` for Prof Lontok and
+   `sam-lmu` for Prof Mukherjee. Every team adds both.
 9. Accept the invitation. It arrives by email and at
    https://github.com/notifications
 10. Copy the repository's URL from its "Code" menu. In a terminal, type
@@ -132,6 +134,6 @@ Everything is in this repository. You don't upload anything else.
 - Don't commit an employer's or client's data, credentials, or internal
   documents.
 - Use made-up data in any example.
-- Don't give access to anyone outside your team, your advisor, and your
-  stakeholder.
+- Don't give access to anyone outside your team, your instructors, your
+  advisor, and your stakeholder.
 - Keep every teammate's name in the Team section current.

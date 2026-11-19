@@ -31,7 +31,8 @@ Owner: [Name] | Due: Thu Nov 19, in class
       `README.md`, and named `isba-capstone-[project]-s27`.
 - [ ] Every teammate has accepted the invitation and cloned the repository.
 - [ ] The visibility is "Private".
-- [ ] Every teammate and the faculty advisor are collaborators.
+- [ ] Every teammate is a collaborator.
+- [ ] Both instructors are collaborators: `lontok` and `sam-lmu`.
 - [ ] The Team section of `README.md` is filled in.
 
 Evidence:
